@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ko/en/</loc>
+    <loc>https://guilhermemaas.github.io/ko/en/</loc>
   </url>
   
   <url>
-    <loc>/ko/categories/</loc>
+    <loc>https://guilhermemaas.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://guilhermemaas.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/categories/"
+                href="https://guilhermemaas.github.io/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>/ko/</loc>
+    <loc>https://guilhermemaas.github.io/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://guilhermemaas.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/"
+                href="https://guilhermemaas.github.io/ko/"
                 />
   </url>
   
   <url>
-    <loc>/ko/series/</loc>
+    <loc>https://guilhermemaas.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://guilhermemaas.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/series/"
+                href="https://guilhermemaas.github.io/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>/ko/tags/</loc>
+    <loc>https://guilhermemaas.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://guilhermemaas.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/tags/"
+                href="https://guilhermemaas.github.io/ko/tags/"
                 />
   </url>
   
