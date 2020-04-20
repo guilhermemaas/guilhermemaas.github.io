@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Guilherme Augusto Maas</title>
-    <link>https://guilhermemaas.github.io/ko/</link>
+    <link>/ko/</link>
     <description>Recent content on Guilherme Augusto Maas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>guilherme.maas@gmail.com (Guilherme Maas)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://guilhermemaas.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/ko/index.xml" rel="self" type="application/rss+xml" />
     
     
     

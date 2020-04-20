@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>https://guilhermemaas.github.io/en/</link>
+    <link>/en/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>guilherme.maas@gmail.com (Guilherme Maas)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://guilhermemaas.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     
