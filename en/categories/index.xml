@@ -6,20 +6,39 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Hugo Zzo Theme</title>
+    <title>Categories on Guilherme Maas</title>
     <link>https://guilhermemaas.github.io/en/categories/</link>
-    <description>Recent content in Categories on Hugo Zzo Theme</description>
+    <description>Recent content in Categories on Guilherme Maas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>guilherme.maas@gmail.com (Guilherme Maas)</managingEditor>
     <webMaster>guilherme.maas@gmail.com (Guilherme Maas)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 17 Nov 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://guilhermemaas.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>diagram</title>
+        <link>https://guilhermemaas.github.io/en/categories/diagram/</link>
+        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/en/categories/diagram/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     

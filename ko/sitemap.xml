@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guilhermemaas.github.io/ko/en/</loc>
+    <loc>https://guilhermemaas.github.io/ko/en/__index/</loc>
   </url>
   
   <url>
@@ -18,6 +18,10 @@
                 hreflang="ko"
                 href="https://guilhermemaas.github.io/ko/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/ko/en/</loc>
   </url>
   
   <url>
