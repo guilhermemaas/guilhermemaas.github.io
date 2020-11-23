@@ -14,12 +14,121 @@
     <managingEditor>guilherme.maas@gmail.com (Guilherme Maas)</managingEditor>
     <webMaster>guilherme.maas@gmail.com (Guilherme Maas)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 23 Nov 2020 15:44:47 -0300</lastBuildDate>
     
         <atom:link href="https://guilhermemaas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>centos</title>
+        <link>https://guilhermemaas.github.io/tags/centos/</link>
+        <pubDate>Mon, 23 Nov 2020 15:44:47 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/tags/centos/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>linux</title>
+        <link>https://guilhermemaas.github.io/tags/linux/</link>
+        <pubDate>Mon, 23 Nov 2020 15:44:47 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/tags/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>terminal</title>
+        <link>https://guilhermemaas.github.io/tags/terminal/</link>
+        <pubDate>Mon, 23 Nov 2020 15:44:47 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/tags/terminal/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>zabbix</title>
+        <link>https://guilhermemaas.github.io/tags/zabbix/</link>
+        <pubDate>Mon, 23 Nov 2020 15:44:47 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/tags/zabbix/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>msys2</title>
+        <link>https://guilhermemaas.github.io/tags/msys2/</link>
+        <pubDate>Sun, 22 Nov 2020 19:39:21 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/tags/msys2/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>tmux</title>
+        <link>https://guilhermemaas.github.io/tags/tmux/</link>
+        <pubDate>Sun, 22 Nov 2020 19:39:21 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/tags/tmux/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     

@@ -14,7 +14,7 @@
     <managingEditor>guilherme.maas@gmail.com (Guilherme Maas)</managingEditor>
     <webMaster>guilherme.maas@gmail.com (Guilherme Maas)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 22 Nov 2020 19:39:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 15:44:47 -0300</lastBuildDate>
     
         <atom:link href="https://guilhermemaas.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>linux</title>
         <link>https://guilhermemaas.github.io/categories/linux/</link>
-        <pubDate>Sun, 22 Nov 2020 19:39:21 -0300</pubDate>
+        <pubDate>Mon, 23 Nov 2020 15:44:47 -0300</pubDate>
         <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
         
         <guid>https://guilhermemaas.github.io/categories/linux/</guid>
@@ -41,9 +41,27 @@
       </item>
       
       <item>
+        <title>monitoramento</title>
+        <link>https://guilhermemaas.github.io/categories/monitoramento/</link>
+        <pubDate>Mon, 23 Nov 2020 15:44:47 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        
+        <guid>https://guilhermemaas.github.io/categories/monitoramento/</guid>
+        <description></description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>terminal</title>
         <link>https://guilhermemaas.github.io/categories/terminal/</link>
-        <pubDate>Sun, 22 Nov 2020 19:39:21 -0300</pubDate>
+        <pubDate>Mon, 23 Nov 2020 15:44:47 -0300</pubDate>
         <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
         
         <guid>https://guilhermemaas.github.io/categories/terminal/</guid>

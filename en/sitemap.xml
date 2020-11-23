@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://guilhermemaas.github.io/categories/</loc>
-    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://guilhermemaas.github.io/tags/centos/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://guilhermemaas.github.io/</loc>
-    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -33,17 +38,67 @@
   </url>
   
   <url>
+    <loc>https://guilhermemaas.github.io/tags/linux/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://guilhermemaas.github.io/categories/linux/</loc>
-    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/categories/monitoramento/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://guilhermemaas.github.io/posts/</loc>
-    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://guilhermemaas.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guilhermemaas.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/terminal/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://guilhermemaas.github.io/categories/terminal/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/zabbix/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/posts/zabbix_centos_mariadb/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/msys2/</loc>
+    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/tmux/</loc>
     <lastmod>2020-11-22T19:39:21-03:00</lastmod>
   </url>
   
@@ -67,20 +122,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://guilhermemaas.github.io/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://guilhermemaas.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://guilhermemaas.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guilhermemaas.github.io/tags/"
                 />
   </url>
   
