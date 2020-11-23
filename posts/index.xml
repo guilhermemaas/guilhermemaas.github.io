@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Guilherme Maas</title>
+    <link>https://guilhermemaas.github.io/posts/</link>
+    <description>Recent content in Posts on Guilherme Maas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>guilherme.maas@gmail.com (Guilherme Maas)</managingEditor>
+    <webMaster>guilherme.maas@gmail.com (Guilherme Maas)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 22 Nov 2020 19:39:21 -0300</lastBuildDate>
+    
+        <atom:link href="https://guilhermemaas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Tmux no Windows com Msys2</title>
+        <link>https://guilhermemaas.github.io/posts/tmux-com-msys2-windows/</link>
+        <pubDate>Sun, 22 Nov 2020 19:39:21 -0300</pubDate>
+        <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
+        <atom:modified>Sun, 22 Nov 2020 19:39:21 -0300</atom:modified>
+        <guid>https://guilhermemaas.github.io/posts/tmux-com-msys2-windows/</guid>
+        <description>Muitas vezes estamos utilizando Windows no trabalhou ou em casa e sentimos falta de utilizar o Tmux para criar várias sessões de terminal, além de claro, do próprio bash e suas vantagens. Neste breve tutorial irei mostrar como instalar o Tmux através do Msys2 e seus principais atalhos.
+Tmux: É um multiplexador de terminal de código aberto para sistemas operacionais Unix-like. Ele permite criar multiplas sessões de terminal para acessar simultaneamente em uma única janela.</description>
+        
+        <dc:creator>Guilherme Maas</dc:creator>
+        <media:content url="https://guilhermemaas.github.ioimages/icones/Msys_icone.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>terminal</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

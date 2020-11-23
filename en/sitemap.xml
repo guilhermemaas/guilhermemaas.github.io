@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guilhermemaas.github.io/en/categories/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <loc>https://guilhermemaas.github.io/categories/</loc>
+    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -13,23 +13,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guilhermemaas.github.io/en/categories/"
+                href="https://guilhermemaas.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://guilhermemaas.github.io/en/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guilhermemaas.github.io/en/categories/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guilhermemaas.github.io/en/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <loc>https://guilhermemaas.github.io/</loc>
+    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -38,41 +28,36 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guilhermemaas.github.io/en/"
+                href="https://guilhermemaas.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://guilhermemaas.github.io/en/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <loc>https://guilhermemaas.github.io/categories/linux/</loc>
+    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://guilhermemaas.github.io/en/posts/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <loc>https://guilhermemaas.github.io/posts/</loc>
+    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://guilhermemaas.github.io/en/tags/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://guilhermemaas.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guilhermemaas.github.io/en/tags/"
-                />
+    <loc>https://guilhermemaas.github.io/categories/terminal/</loc>
+    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://guilhermemaas.github.io/en/__index/</loc>
+    <loc>https://guilhermemaas.github.io/posts/tmux-com-msys2-windows/</loc>
+    <lastmod>2020-11-22T19:39:21-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://guilhermemaas.github.io/en/series/</loc>
+    <loc>https://guilhermemaas.github.io/__index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -81,7 +66,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guilhermemaas.github.io/en/series/"
+                href="https://guilhermemaas.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://guilhermemaas.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guilhermemaas.github.io/tags/"
                 />
   </url>
   
