@@ -1203,7 +1203,7 @@
 
 
     
-<meta name="description" content="Rodando o multiplexador de terminais Tmux no Windows com Msys2." />
+<meta name="description" content="Rodando o multiplexador de terminais Tmux no Windows com Msys2" />
 
 
 <meta name="created" content="2020-11-22T19:39:21-0300">
@@ -1217,7 +1217,7 @@
 <meta property="og:title" content="Tmux no Windows com Msys2">
 <meta property="og:url" content="https://guilhermemaas.github.io/posts/tmux-com-msys2-windows/">
 <meta property="og:type" content="article">
-<meta property="og:description" content="Rodando o multiplexador de terminais Tmux no Windows com Msys2.">
+<meta property="og:description" content="Rodando o multiplexador de terminais Tmux no Windows com Msys2">
 
   
     <meta property="og:image" content="https://guilhermemaas.github.io/images/icones/Msys_icone.jpg">
@@ -1225,7 +1225,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="Guilherme Maas">
     <meta property="twitter:title" content="Tmux no Windows com Msys2">
-    <meta property="twitter:description" content="Rodando o multiplexador de terminais Tmux no Windows com Msys2.">
+    <meta property="twitter:description" content="Rodando o multiplexador de terminais Tmux no Windows com Msys2">
   
 
 <meta name="generator" content="Hugo 0.69.0" />
@@ -1267,7 +1267,7 @@
     "datePublished": "2020-11-22T19:39:21-03:00",
     "dateModified": "2020-11-22T19:39:21-03:00",
     "url" : "https://guilhermemaas.github.io/posts/tmux-com-msys2-windows/",
-    "description": "Rodando o multiplexador de terminais Tmux no Windows com Msys2.",
+    "description": "Rodando o multiplexador de terminais Tmux no Windows com Msys2",
     "image" : "https://guilhermemaas.github.io/images/icones/Msys_icone.jpg",
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -1541,10 +1541,10 @@
 <p>Muitas vezes estamos utilizando Windows no trabalhou ou em casa e sentimos falta de utilizar o Tmux para criar várias sessões de terminal, além de claro, do próprio bash e suas vantagens. Neste breve tutorial irei mostrar como instalar o Tmux através do Msys2 e seus principais atalhos.</p>
 <p>Tmux: É um multiplexador de terminal de código aberto para sistemas operacionais Unix-like. Ele permite criar multiplas sessões de terminal para acessar simultaneamente em uma única janela. Ótimo para rodar vários programas de linha de comando ao mesmo tempo.</p>
 <p>Msys2: Baseado no Cygwin e Mingw-w64, nos permite rodar aplicações do projeto GNU, Linux ao mesmo tempo que interagimos com o própio Windows. No geral, nos permite rodar aplicações Linux no Windows, assim como o WSL(Windows Subsystem for Linux). Seus pacotes são distribuídos através do Pacman como no Arch Linux.</p>
-<h2 id="-instalação-e-configuração">🐧 Instalação e Configuração:</h2>
+<h2 id="-instalação-e-configuração">🐧 Instalação e Configuração</h2>
 <p>Baixe a versão mais atual do Msys2 disponível em: <a href="https://repo.msys2.org/distrib/x86_64/">https://repo.msys2.org/distrib/x86_64/</a></p>
 <p>A instalação é next, next, finish. Então não há segredo. Mais detalhes em: <a href="https://www.msys2.org/#installation">https://www.msys2.org/#installation</a></p>
-<h2 id="baixe-o-tmux">Baixe o Tmux:</h2>
+<h2 id="baixe-o-tmux">Baixe o Tmux</h2>
 <p>Para baixar o Tmux basta rodar o seguinte comando e aguardar:</p>
 
 <div id="cc11c6eb11738f56" class="codetab">
@@ -1678,12 +1678,12 @@
     codetabContents[0].style.display = 'block';
   }
 </script>
-<h2 id="alguns-atalhos-interessantes-do-tmux">Alguns atalhos interessantes do Tmux:</h2>
+<h2 id="alguns-atalhos-interessantes-do-tmux">Alguns atalhos interessantes do Tmux</h2>
 <table>
 <thead>
 <tr>
 <th>Atalho</th>
-<th>Description</th>
+<th>Descrição</th>
 </tr>
 </thead>
 <tbody>
@@ -1736,12 +1736,16 @@
 <td>Rotaciona entre as janelas</td>
 </tr>
 <tr>
+<td>ctrl+b+x</td>
+<td>Permite fechar o painel</td>
+</tr>
+<tr>
 <td>ctrl+b+d</td>
 <td>Sair de uma sessão sem fechar, irá permanecer em BG</td>
 </tr>
 </tbody>
 </table>
-<h2 id="alguns-comandos-para-gerenciamento-do-tmux">Alguns comandos para gerenciamento do Tmux:</h2>
+<h2 id="alguns-comandos-para-gerenciamento-do-tmux">Alguns comandos para gerenciamento do Tmux</h2>
 
 <div id="d9ac5e22910f4ac0" class="codetab">
   <div class="codetab__links">
@@ -1822,12 +1826,12 @@ tmux attach -t <span class="m">0</span>
     codetabContents[0].style.display = 'block';
   }
 </script>
-<h2 id="exemplo-de-algumas-janelas-criadas-com-msys2-e-tmux">Exemplo de algumas janelas criadas com Msys2 e Tmux:</h2>
+<h2 id="exemplo-de-algumas-janelas-criadas-com-msys2-e-tmux">Exemplo de algumas janelas criadas com Msys2 e Tmux</h2>
 
 
 <figure >
   
-    <img data-src="img/tmux2.png"  data-caption="" src="data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' width='' height='' viewBox='0 0 24 24'%3E%3Cpath fill='none' d='M0 0h24v24H0V0z'/%3E%3Cpath fill='%23aaa' d='M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z'/%3E%3C/svg%3E" class="lazyload" style="width:;height:;"/>
+    <img data-src="img/tmux3.jpg"  data-caption="" src="data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' width='' height='' viewBox='0 0 24 24'%3E%3Cpath fill='none' d='M0 0h24v24H0V0z'/%3E%3Cpath fill='%23aaa' d='M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 16H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1zm-4.44-6.19l-2.35 3.02-1.56-1.88c-.2-.25-.58-.24-.78.01l-1.74 2.23c-.26.33-.02.81.39.81h8.98c.41 0 .65-.47.4-.8l-2.55-3.39c-.19-.26-.59-.26-.79 0z'/%3E%3C/svg%3E" class="lazyload" style="width:;height:;"/>
     
   
 </figure>
@@ -2407,11 +2411,11 @@ document.addEventListener('DOMContentLoaded', function () {
     <nav id="TableOfContents">
   <ul>
     <li><a href="#heading"></a></li>
-    <li><a href="#-instalação-e-configuração">🐧 Instalação e Configuração:</a></li>
-    <li><a href="#baixe-o-tmux">Baixe o Tmux:</a></li>
-    <li><a href="#alguns-atalhos-interessantes-do-tmux">Alguns atalhos interessantes do Tmux:</a></li>
-    <li><a href="#alguns-comandos-para-gerenciamento-do-tmux">Alguns comandos para gerenciamento do Tmux:</a></li>
-    <li><a href="#exemplo-de-algumas-janelas-criadas-com-msys2-e-tmux">Exemplo de algumas janelas criadas com Msys2 e Tmux:</a></li>
+    <li><a href="#-instalação-e-configuração">🐧 Instalação e Configuração</a></li>
+    <li><a href="#baixe-o-tmux">Baixe o Tmux</a></li>
+    <li><a href="#alguns-atalhos-interessantes-do-tmux">Alguns atalhos interessantes do Tmux</a></li>
+    <li><a href="#alguns-comandos-para-gerenciamento-do-tmux">Alguns comandos para gerenciamento do Tmux</a></li>
+    <li><a href="#exemplo-de-algumas-janelas-criadas-com-msys2-e-tmux">Exemplo de algumas janelas criadas com Msys2 e Tmux</a></li>
     <li><a href="#até-logo--">Até logo!  ❤️</a></li>
   </ul>
 </nav>
@@ -3071,14 +3075,14 @@ document.addEventListener('DOMContentLoaded', function () {
       
       
         
+      
+        
         
           
             
               <a href="https://guilhermemaas.github.io/posts/tmux-com-msys2-windows/" data-lang="en" class="dropdown-item is-active">English</a>
             
           
-        
-      
         
       
     

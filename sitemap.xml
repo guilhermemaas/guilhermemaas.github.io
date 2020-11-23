@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://guilhermemaas.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-11-22T19:39:21-03:00</lastmod>
+	   	<loc>https://guilhermemaas.github.io/ko/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://guilhermemaas.github.io/ko/sitemap.xml</loc>
+	   	<loc>https://guilhermemaas.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-11-22T19:39:21-03:00</lastmod>
 		
 	</sitemap>
 	
