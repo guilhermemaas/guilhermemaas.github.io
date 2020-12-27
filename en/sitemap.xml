@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://guilhermemaas.github.io/posts/jurassic_park_cluster_swarm/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://guilhermemaas.github.io/categories/</loc>
-    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -18,13 +23,23 @@
   </url>
   
   <url>
-    <loc>https://guilhermemaas.github.io/tags/centos/</loc>
-    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+    <loc>https://guilhermemaas.github.io/categories/containers/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/docker/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/categories/docker/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://guilhermemaas.github.io/</loc>
-    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -35,6 +50,41 @@
                 hreflang="en"
                 href="https://guilhermemaas.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/nginx/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/posts/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/swarm/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/</loc>
+    <lastmod>2020-12-26T18:50:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://guilhermemaas.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guilhermemaas.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://guilhermemaas.github.io/tags/centos/</loc>
+    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
   </url>
   
   <url>
@@ -50,26 +100,6 @@
   <url>
     <loc>https://guilhermemaas.github.io/categories/monitoramento/</loc>
     <lastmod>2020-11-23T15:44:47-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guilhermemaas.github.io/posts/</loc>
-    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guilhermemaas.github.io/tags/</loc>
-    <lastmod>2020-11-23T15:44:47-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://guilhermemaas.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guilhermemaas.github.io/tags/"
-                />
   </url>
   
   <url>
