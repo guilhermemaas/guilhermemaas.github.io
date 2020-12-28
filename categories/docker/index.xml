@@ -23,19 +23,19 @@
 
       
       <item>
-        <title>50 containers Nginx com Docker Swarm</title>
+        <title>50 réplicas Nginx com Docker Swarm</title>
         <link>https://guilhermemaas.github.io/posts/jurassic_park_cluster_swarm/</link>
         <pubDate>Sat, 26 Dec 2020 18:50:58 -0300</pubDate>
         <author>guilherme.maas@gmail.com (Guilherme Maas)</author>
         <atom:modified>Sat, 26 Dec 2020 18:50:58 -0300</atom:modified>
         <guid>https://guilhermemaas.github.io/posts/jurassic_park_cluster_swarm/</guid>
         <description>Neste breve tutorial irei demonstrar como:
- Iniciar um cluster Swarm. Adicionar hosts ao cluster. Criar uma máquina virtual em uma linha de comando com o driver para Virtual Box e Docker Machine. Criar um serviço escalando 50 containers de Nginx distribuídos entre os nós do cluster.  Requisitos: Já ter dado uma brincada com Docker, ou não.
+ Iniciar um cluster Swarm. Adicionar hosts ao cluster. Criar uma máquina virtual em uma linha de comando com o driver para Virtual Box e Docker Machine. Criar um serviço escalando 50 réplicas(containers) de Nginx distribuídos entre os nós do cluster.  Requisitos: Já ter dado uma brincada com Docker, ou não.
 Irei subir seis nodes,nós no cluster:
 Node 1 - isla-nublar - Node principal (Manager).</description>
         
         <dc:creator>Guilherme Maas</dc:creator>
-        <media:content url="https://guilhermemaas.github.ioimages/icones/swarm.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://guilhermemaas.github.ioimages/icones/Swarm_Nginx.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
