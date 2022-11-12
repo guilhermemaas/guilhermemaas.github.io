@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on guilhermemaas.github.io</title>
+    <link>https://guilhermemaas.github.io/tags/blog/</link>
+    <description>Recent content in blog on guilhermemaas.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://guilhermemaas.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, world!</title>
+      <link>https://guilhermemaas.github.io/posts/first_post/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://guilhermemaas.github.io/posts/first_post/</guid>
+      <description>Hello World! This is my blog.</description>
+    </item>
+    
+  </channel>
+</rss>
